@@ -1,0 +1,70 @@
+body {
+    background-color: rgba(1, 124, 17, 0.432);
+    margin-top: 40px;
+}
+
+#cajaLogin {
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-top: 500px;
+    align-items: center;
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: black;
+}
+
+#boton {
+    border-radius: 10px;
+    padding: 10px;
+    width: 300px;
+    font-size: 14px;
+}
+
+label {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+#inputLogin {
+    width: 300px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+#inputRegistro {
+    width: 600px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+#imagenUser {
+    margin-top: 2em;
+}
+
+#cajaForm {
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-top: 500px;
+    align-items: center;
+    width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    /* background-color: rgb(247, 205, 227); */
+    background-color: rgb(214, 214, 214);
+    color: rgb(255, 255, 255);
+    box-shadow: inset 0px 0px 80px rgb(99, 98, 98);
+    box-shadow: 0px 0px 60px rgb(107, 107, 107);
+    height: 650px;
+}
