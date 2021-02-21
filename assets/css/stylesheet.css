@@ -29,13 +29,13 @@ h2 {
     font-weight: bold;
     font-size: 40px;
     margin-bottom: 0%;
+    text-align: center;
 }
 
 hr.new {
-    width: 323%;
     height: 2px;
-    margin-left: -13em;
-    margin-right: 13em;
+    width: 600px;
+    margin: auto;
     background-color: #141E30;
 }
 
